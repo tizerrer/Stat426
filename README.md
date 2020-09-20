@@ -8,15 +8,10 @@ _This has been created for the course of **Statistical Analysis of High-Throughp
 
 ![image](https://user-images.githubusercontent.com/71393205/93720937-d07bf800-fb8c-11ea-9ec2-daa72e3a3be3.png)
 
+This is the perfect soundtrack to stimulate your mind while studying/working :musical_score:
 
 https://www.youtube.com/watch?v=fEOJQawykD0&ab_channel=DarioPrincipia
 
-
-
-<script>
-var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3")
-audio.play()
-</script>
 
 
 
