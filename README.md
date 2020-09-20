@@ -5,7 +5,16 @@ Welcome to my repository :upside_down_face:
 
 _This has been created for the course of **Statistical Analysis of High-Throughput Genomic and Transcriptomic Data**_
 
-![Genomic Photo] (https://github.com/tizerrer/Stat426/blob/master/genomic-image.jpg)
+
+![image](https://user-images.githubusercontent.com/71393205/93720937-d07bf800-fb8c-11ea-9ec2-daa72e3a3be3.png)
+
+
+
+
+
+
+
+
 
 
 
