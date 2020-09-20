@@ -1,0 +1,55 @@
+---
+title: "Exercise1"
+author: "Tiziana Errera"
+date: "20/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+_The aim of this exercise is to create a sample of 100 values from a log-normal
+distribution (with mu=1 and sigma=.25); then to create the histogram of the distribution and
+the distribution on the log scale; and last but not least, to report the mean and variance of the sample in
+line in the text._
+
+```{R Sample}
+n<-100
+Xvalues<-rlnorm(n, meanlog=1, sdlog=0.25)
+```
+
+## Histograms
+
+Here there are the histograms of the distributions:
+
+```{r Histograms}
+hist(Xvalues)
+hist(log10(Xvalues))
+```
+
+## Mean and Variance
+
+The mean is:
+```{r mean, echo=FALSE}
+xmean <- mean(Xvalues)
+xmean 
+```
+While the mean of the log distribution is:
+```{r log mean, echo=FALSE}
+xlogmean <- mean(log(Xvalues))
+xlogmean
+```
+
+The variance is:
+```{r variance, echo=FALSE}
+xvariance <- var(Xvalues)
+xvariance
+```
+While the variance of the log distribution is:
+```{r log variance, echo=FALSE}
+xlogvariance <- var(log10(Xvalues))
+xlogvariance
+```
