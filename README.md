@@ -10,7 +10,7 @@ _This has been created for the course of **Statistical Analysis of High-Throughp
 
 This is the perfect soundtrack to stimulate your mind while studying/working :musical_score:
 
-https://www.youtube.com/watch?v=fEOJQawykD0&ab_channel=DarioPrincipia
+(https://www.youtube.com/watch?v=fEOJQawykD0&ab_channel=DarioPrincipia)
 
 
 
